@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faiaz Bin Islam
 - 👀 I’m interested in Data Structuring, Blockchain, and Software Developing.
 - 🌱 I’m currently learning Java, Javascript, and Phython.
-- 💞️ I’m looking to collaborate on projects that requires entry level experience in such feilds.
+- 💞️ I’m looking to collaborate on projects that requires entry level experience in such fields.
 - 📫 To reach me please drop me an email.
 
 <!---
